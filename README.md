@@ -1,2 +1,2 @@
 # dummy_project
- This is a dummy project
+ This is a smart project!
